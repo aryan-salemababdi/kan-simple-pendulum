@@ -58,7 +58,7 @@ The model didn't just fit the data; it discovered the **structure** of the physi
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1.  **Clone the repository:**
 
