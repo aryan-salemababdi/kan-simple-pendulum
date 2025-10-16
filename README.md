@@ -11,9 +11,7 @@ This work serves as a practical exploration into the intersection of modern mach
 The primary goal was to test the hypothesis that a KAN model, unlike traditional "black-box" neural networks, could learn the precise functional relationships between physical variables and express them as a clean, symbolic formula.
 
 > The target formula to rediscover was:
-> $$
-> T = 2\pi\sqrt{\frac{L}{g}}
-> $$
+> T = 2 * pi * sqrt(L / g)
 > where:
 > * `T` is the period of oscillation.
 > * `L` is the length of the pendulum.
