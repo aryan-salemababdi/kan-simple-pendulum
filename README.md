@@ -62,24 +62,23 @@ The model didn't just fit the data; it discovered the **structure** of the physi
 
 ---
 
-## How to Run
+## 🚀 How to Run
 
 1.  **Clone the repository:**
 
+
 2.  **Install dependencies:**
     ```bash
-    pip install torch numpy pandas scikit-learn pykan matplotlib
+    pip install torch numpy pandas scikit-learn pykan matplotlib jupyter
     ```
 
-3.  **Generate the data:**
+3.  **Launch Jupyter Notebook:**
     ```bash
-    python simulate_data.py
+    jupyter notebook
     ```
 
-4.  **Train the KAN model and see the results:**
-    ```bash
-    python train_kan.py
-    ```
+4.  **Run the notebook:**
+    Open the `simulate_data.ipynb` and `train_kan.ipynb` file and run the cells from top to bottom.
 
 ---
 
