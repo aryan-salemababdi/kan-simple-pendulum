@@ -56,10 +56,6 @@ The KAN model **successfully learned the underlying physical law**. The internal
 The model didn't just fit the data; it discovered the **structure** of the physical law governing the system.
 
 
-
-[Image of a simple pendulum diagram]
-
-
 ---
 
 ## 🚀 How to Run
@@ -84,6 +80,7 @@ The model didn't just fit the data; it discovered the **structure** of the physi
 
 ## Technologies Used
 * Python
+* Jupyter Notebook
 * PyTorch
 * PyKAN
 * NumPy & Pandas
