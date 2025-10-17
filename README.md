@@ -56,11 +56,17 @@ The KAN model **successfully learned the underlying physical law**. The internal
 The model didn't just fit the data; it discovered the **structure** of the physical law governing the system.
 
 
+![Final Pruned KAN Model](./output.png)
+
 ---
 
 ## How to Run
 
 1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/aryan-salemababdi/kan-simple-pendulum.git
+    cd kan-simple-pendulum
+    ```
 
 
 2.  **Install dependencies:**
